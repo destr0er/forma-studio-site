@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://forma-studio-site.pages.dev/sitemap.xml
